@@ -229,6 +229,7 @@ header {
   border-radius: 7px;
   width: 45px;
   height: 45px;
+  cursor: pointer;
 }
 
 .notifications-content-comment {
